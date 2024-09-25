@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.6.1"
+  },
+  "dependencies": {
+    "@zitadel/node": "^2.0.35",
+    "crypto-js": "^4.2.0"
+  }
+}
